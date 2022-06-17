@@ -45,7 +45,7 @@ Make sure you include the [absolute path](https://www.geeksforgeeks.org/absolute
 
 ## A Couple of Final Notes
 
-The pipeline is set to run for 5 days. If you think it'll take longer than that then modify the `--time` flag in the
+The pipeline is set to run for 3 days. If you think it'll take longer than that then modify the `--time` flag in the
 `runSentieonPL.sh` SLURM header. The max walltime can be set for 7 hours. Contact the CHPC if you need longer than that or if you can resume the pipeline if it times out and that works, that could be an option too.
 
 <br/>
